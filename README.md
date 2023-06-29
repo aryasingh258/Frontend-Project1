@@ -1,3 +1,16 @@
 # Frontend-Project1
-This is my first front end project -Tribute page: a basic HTML and CSS project in which I used HTML and basic CSS properties to built a non responsive page.
+This is my first front end project.This project is a simple tribute page created using HTML and basic CSS. It is a front-end project that pays homage to Dr.B.R Ambedkar. The tribute page is designed to be a single web page that provides information and highlights the achievements or significance of the chosen subject.
+#Project Structure
+1.index.html: This is the main HTML file that structures the content of the tribute page.
+2.style.css: This CSS file contains basic styles and layout properties to enhance the visual presentation of the tribute page.
+3.images/: This directory stores any images used in the tribute page. Feel free to add or replace images as needed.
+#Contributing
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the project repository.
+#Acknowledgments
+Special thanks to the open-source community for providing valuable resources and tools.
+#Resources
+->HTML Documentation
+->CSS Documentation
+->GitHub
 ![preview](https://github.com/aryasingh258/Frontend-Project1/assets/117709787/ee2d4c36-6ebd-4f95-9728-631a9c0e5cf4)
+
