@@ -1,14 +1,14 @@
 # Frontend-Project1
 This is my first front end project.This project is a simple tribute page created using HTML and basic CSS. It is a front-end project that pays homage to Dr.B.R Ambedkar. The tribute page is designed to be a single web page that provides information and highlights the achievements or significance of the chosen subject.
-#Project Structure
+# Project Structure
 1.index.html: This is the main HTML file that structures the content of the tribute page.
 2.style.css: This CSS file contains basic styles and layout properties to enhance the visual presentation of the tribute page.
 3.images/: This directory stores any images used in the tribute page. Feel free to add or replace images as needed.
-#Contributing
+# Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the project repository.
-#Acknowledgments
+# Acknowledgments
 Special thanks to the open-source community for providing valuable resources and tools.
-#Resources
+# Resources
 ->HTML Documentation
 ->CSS Documentation
 ->GitHub
