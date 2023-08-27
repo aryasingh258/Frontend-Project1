@@ -27,3 +27,4 @@ Special thanks to the open-source community for providing valuable resources and
 1. <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Html Docummentation</a>
 2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS Docummentation</a>
 2. <a href="https://github.com/">GitHub</a>
+![preview2](https://github.com/aryasingh258/Frontend-Projects/assets/117709787/f0d9dc8c-4230-4108-8894-75cb6bdde97f)
