@@ -28,3 +28,19 @@ Special thanks to the open-source community for providing valuable resources and
 2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS Docummentation</a>
 2. <a href="https://github.com/">GitHub</a>
 ![preview2](https://github.com/aryasingh258/Frontend-Projects/assets/117709787/f0d9dc8c-4230-4108-8894-75cb6bdde97f)
+
+# Frontend-Project3
+This is gym website which is responsive in nature.I used basic HTML and CSS to built this website.This website is portable for both desktop and mobile view.This is a single page project which 
+obtain basic data about the user and provide informaton to user about gym services.
+# Project Structure
+1. index.html: This is the main HTML file that structures the content of .
+2. style.css: This CSS file contains basic styles and layout properties to enhance the visual presentation of this page.
+# Contributing
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the project repository.
+# Acknowledgments
+Special thanks to the open-source community for providing valuable resources and tools.
+# Resources
+1. <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Html Docummentation</a>
+2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS Docummentation</a>
+2. <a href="https://github.com/">GitHub</a>
+![preview3](https://github.com/aryasingh258/Frontend-Projects/assets/117709787/fc65af1c-04de-4626-8034-7ce6453d18e0)
