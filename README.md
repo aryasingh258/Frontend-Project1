@@ -14,3 +14,8 @@ Special thanks to the open-source community for providing valuable resources and
 2. <a href="https://github.com/">GitHub</a>
 ![preview](https://github.com/aryasingh258/Frontend-Project1/assets/117709787/ee2d4c36-6ebd-4f95-9728-631a9c0e5cf4)
 
+# Frontend-Project2
+This is a basic job application form.It requires basic HTML and CSS to design this page.It is responsive in nature.I used basic grid and flexbox properties to make it responsive.
+# Project Structure
+1. index.html: This is the main HTML file that structures the content of job application form page.
+2. style.css: This CSS file contains basic styles and layout properties to enhance the visual presentation of this page.
