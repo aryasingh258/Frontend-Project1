@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fitness freak</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        background-image: url("gym.jpg");
+        margin: 0;
+        padding: 0;
+        font-family: "Baloo Bhaijaan 2", cursive;
+      }
+      .left {
+        display: inline-block;
+        /* border: 2px solid white; */
+        position: absolute;
+        top: 20px;
+        left: 50px;
+        color: rgb(255, 255, 255);
+        background-color: rgb(24, 23, 23);
+      }
+      .mid {
+        display: block;
+        width: 60%;
+        margin: 30px auto;
+        /* border: 2px solid white; */
+      }
+      .right {
+        display: inline-block;
+        /* border: 2px solid white; */
+        position: absolute;
+        top: 30px;
+        right: 50px;
+        color: aliceblue;
+      }
+      .nav li {
+        display: inline-block;
+      }
+      .nav li a {
+        text-decoration: none;
+        color: rgb(7, 214, 237);
+        padding: 30px;
+        font-size: 24px;
+      }
+      .nav li a:hover,
+      .nav li a.active {
+        color: white;
+        text-decoration: underline solid rgb(120, 108, 20);
+      }
+      .left img {
+        width: 113px;
+        filter: invert(
+          100%
+        ); /*To convert white to black(colour) and vice versa*/
+      }
+      .left div {
+        text-align: center;
+        font-size: 22px;
+      }
+      .btn {
+        margin: 0px 4px;
+        padding: 4px 14px;
+        background-color: black;
+        color: white;
+        border: 2px solid gray;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: 16px;
+        font-family: "Baloo Bhaijaan 2", cursive;
+      }
+      .btn:hover {
+        background-color: rgb(42, 40, 40);
+      }
+      .container {
+        display: inline-block;
+        border: 2px solid rgb(95, 89, 89);
+        border-radius: 7px;
+        color: white;
+        position: absolute;
+        top: 20vh;
+        left: 66vw;
+        width: 378px;
+        height: 400px;
+        text-align: center;
+      }
+      h1 {
+        font-size: 40px;
+      }
+      .form-entries input {
+        display: block;
+        width: 287px;
+        margin: 20px auto;
+        border-radius: 5px;
+        font-size: 16px;
+      }
+      .container button {
+        display: block;
+        width: 287px;
+        margin: 20px auto;
+      }
+      footer {
+        position: absolute;
+        bottom: 0px;
+        left: 25vw;
+        color: white;
+        font-size: 25px;
+        text-decoration: underline;
+        word-spacing: 5px;
+      }
+      @media screen and (max-width: 1024px) {
+        body {
+          background-image: url("picture.jpg");
+          background-size: 102%;
+        }
+        .container {
+          top: 18vh;
+          left: 13vw;
+          width: 75%;
+          height: 30%;
+        }
+        .form-entries input {
+          width: 79%;
+          font-size: 13px;
+          margin: 1vh auto;
+        }
+        h1 {
+          font-size: 28px;
+          margin: 1vh;
+        }
+        .container button {
+          width: 30vw;
+          margin: 2vh auto;
+          font-size: 12px;
+        }
+        .btn {
+          font-size: 9px;
+          padding: 3px 5px;
+        }
+        .right {
+          top: 1vh;
+          right: 1vw;
+        }
+        .left img {
+          width: 13vw;
+        }
+        .left {
+          top: 1vh;
+          left: 1vw;
+        }
+        .left div {
+          text-align: center;
+          font-size: 8px;
+        }
+        .mid {
+          position: absolute;
+          left: -4vw;
+          width: 130%;
+          margin: 11vh auto;
+        }
+        .nav li a {
+          font-size: 14px;
+          padding: 4vw;
+        }
+        .contact {
+          display: none;
+        }
+        footer {
+          bottom: 34vh;
+          left: 12vw;
+          font-size: 14px;
+        }
+       
+      }
+    </style>
+  </head>
+  <body>
+    <header class="head">
+      <div class="left">
+        <img src="gym logo1.png" alt="#" />
+        <div>Fitness Freak</div>
+      </div>
+      <div class="mid">
+        <ul class="nav">
+          <li><a href="#" class="active">HOME</a></li>
+          <li><a href="#">ABOUT US</a></li>
+          <li><a href="#">FITNESS CALCULATOR</a></li>
+          <li><a class="contact" href="#">CONTACT US</a></li>
+        </ul>
+      </div>
+      <div class="right">
+        <button class="btn">Contact Us Now</button>
+        <button class="btn">Email Us</button>
+      </div>
+    </header>
+    <div class="container">
+      <h1>Join Our Gym</h1>
+      <form action="noaction.php">
+        <div class="form-entries">
+          <input type="text" name="" placeholder="Enter your name" />
+        </div>
+        <div class="form-entries">
+          <input type="text" name="" placeholder="Enter your age" />
+        </div>
+        <div class="form-entries">
+          <input type="text" name="" placeholder="Enter your contact number" />
+        </div>
+        <div class="form-entries">
+          <input type="text" name="" placeholder="Enter your email" />
+        </div>
+        <div class="form-entries">
+          <input type="text" name="" placeholder="Enter your locality" />
+        </div>
+        <button type="submit" class="btn">SUBMIT</button>
+      </form>
+    </div>
+    <footer>
+      Address : Near Sarogini Market Delhi NCR ,Contact:533-466-917
+    </footer>
+  </body>
+</html>
