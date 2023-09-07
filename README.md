@@ -44,7 +44,7 @@ Special thanks to the open-source community for providing valuable resources and
 2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS Docummentation</a>
 2. <a href="https://github.com/">GitHub</a>
 ![preview3](https://github.com/aryasingh258/Frontend-Projects/assets/117709787/fc65af1c-04de-4626-8034-7ce6453d18e0)
-# Frontend-Project3
+# Frontend-Project4
 This is developer landing page which is responsive in nature.I used basic HTML and CSS to built this website.This website is portable for both desktop and mobile view.This page describe basic skills a developer have and his intro.
 # Project Structure
 1. index.html: This is the main HTML file that structures the content of .
