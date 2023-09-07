@@ -44,3 +44,18 @@ Special thanks to the open-source community for providing valuable resources and
 2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS Docummentation</a>
 2. <a href="https://github.com/">GitHub</a>
 ![preview3](https://github.com/aryasingh258/Frontend-Projects/assets/117709787/fc65af1c-04de-4626-8034-7ce6453d18e0)
+# Frontend-Project3
+This is developer landing page which is responsive in nature.I used basic HTML and CSS to built this website.This website is portable for both desktop and mobile view.This page describe basic skills a developer have and his intro.
+# Project Structure
+1. index.html: This is the main HTML file that structures the content of .
+2. style.css: This CSS file contains basic styles and layout properties to enhance the visual presentation of this page.
+3. image file: contain all image related to project.
+# Contributing
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the project repository.
+# Acknowledgments
+Special thanks to the open-source community for providing valuable resources and tools.
+# Resources
+1. <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Html Docummentation</a>
+2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS Docummentation</a>
+2. <a href="https://github.com/">GitHub</a>
+![screenshot](https://github.com/aryasingh258/Frontend-Projects/assets/117709787/f6d2f5b0-25ef-4f9f-b7bf-6c9bb83c058e)
